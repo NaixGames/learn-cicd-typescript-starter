@@ -1,4 +1,4 @@
-https://github.com/NaixGames/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg
+![Test status badge](https://github.com/NaixGames/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
